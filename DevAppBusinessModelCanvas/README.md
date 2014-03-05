@@ -1,4 +1,0 @@
-DevAppBusinessModelCanvas
-=========================
-
-Business Model
